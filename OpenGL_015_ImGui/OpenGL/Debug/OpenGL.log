@@ -1,0 +1,44 @@
+﻿  Application.cpp
+c:\users\lingn\onedrive\desktop\opengl\opengl_015_imgui\opengl\src\vendor\imgui\imgui_impl_glfw_gl3.h(16): error C2144: syntax error: 'bool' should be preceded by ';'
+c:\users\lingn\onedrive\desktop\opengl\opengl_015_imgui\opengl\src\vendor\imgui\imgui_impl_glfw_gl3.h(16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\lingn\onedrive\desktop\opengl\opengl_015_imgui\opengl\src\vendor\imgui\imgui_impl_glfw_gl3.h(17): error C2144: syntax error: 'void' should be preceded by ';'
+c:\users\lingn\onedrive\desktop\opengl\opengl_015_imgui\opengl\src\vendor\imgui\imgui_impl_glfw_gl3.h(17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\lingn\onedrive\desktop\opengl\opengl_015_imgui\opengl\src\vendor\imgui\imgui_impl_glfw_gl3.h(17): error C2086: 'int IMGUI_API': redefinition
+  c:\users\lingn\onedrive\desktop\opengl\opengl_015_imgui\opengl\src\vendor\imgui\imgui_impl_glfw_gl3.h(16): note: see declaration of 'IMGUI_API'
+c:\users\lingn\onedrive\desktop\opengl\opengl_015_imgui\opengl\src\vendor\imgui\imgui_impl_glfw_gl3.h(18): error C2144: syntax error: 'void' should be preceded by ';'
+c:\users\lingn\onedrive\desktop\opengl\opengl_015_imgui\opengl\src\vendor\imgui\imgui_impl_glfw_gl3.h(18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\lingn\onedrive\desktop\opengl\opengl_015_imgui\opengl\src\vendor\imgui\imgui_impl_glfw_gl3.h(18): error C2086: 'int IMGUI_API': redefinition
+  c:\users\lingn\onedrive\desktop\opengl\opengl_015_imgui\opengl\src\vendor\imgui\imgui_impl_glfw_gl3.h(16): note: see declaration of 'IMGUI_API'
+c:\users\lingn\onedrive\desktop\opengl\opengl_015_imgui\opengl\src\vendor\imgui\imgui_impl_glfw_gl3.h(19): error C2144: syntax error: 'void' should be preceded by ';'
+c:\users\lingn\onedrive\desktop\opengl\opengl_015_imgui\opengl\src\vendor\imgui\imgui_impl_glfw_gl3.h(19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\lingn\onedrive\desktop\opengl\opengl_015_imgui\opengl\src\vendor\imgui\imgui_impl_glfw_gl3.h(19): error C2086: 'int IMGUI_API': redefinition
+  c:\users\lingn\onedrive\desktop\opengl\opengl_015_imgui\opengl\src\vendor\imgui\imgui_impl_glfw_gl3.h(16): note: see declaration of 'IMGUI_API'
+c:\users\lingn\onedrive\desktop\opengl\opengl_015_imgui\opengl\src\vendor\imgui\imgui_impl_glfw_gl3.h(19): error C2065: 'ImDrawData': undeclared identifier
+c:\users\lingn\onedrive\desktop\opengl\opengl_015_imgui\opengl\src\vendor\imgui\imgui_impl_glfw_gl3.h(19): error C2065: 'draw_data': undeclared identifier
+c:\users\lingn\onedrive\desktop\opengl\opengl_015_imgui\opengl\src\vendor\imgui\imgui_impl_glfw_gl3.h(19): error C2182: 'ImGui_ImplGlfwGL3_RenderDrawData': illegal use of type 'void'
+c:\users\lingn\onedrive\desktop\opengl\opengl_015_imgui\opengl\src\vendor\imgui\imgui_impl_glfw_gl3.h(22): error C2144: syntax error: 'void' should be preceded by ';'
+c:\users\lingn\onedrive\desktop\opengl\opengl_015_imgui\opengl\src\vendor\imgui\imgui_impl_glfw_gl3.h(22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\lingn\onedrive\desktop\opengl\opengl_015_imgui\opengl\src\vendor\imgui\imgui_impl_glfw_gl3.h(22): error C2086: 'int IMGUI_API': redefinition
+  c:\users\lingn\onedrive\desktop\opengl\opengl_015_imgui\opengl\src\vendor\imgui\imgui_impl_glfw_gl3.h(16): note: see declaration of 'IMGUI_API'
+c:\users\lingn\onedrive\desktop\opengl\opengl_015_imgui\opengl\src\vendor\imgui\imgui_impl_glfw_gl3.h(23): error C2144: syntax error: 'bool' should be preceded by ';'
+c:\users\lingn\onedrive\desktop\opengl\opengl_015_imgui\opengl\src\vendor\imgui\imgui_impl_glfw_gl3.h(23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\lingn\onedrive\desktop\opengl\opengl_015_imgui\opengl\src\vendor\imgui\imgui_impl_glfw_gl3.h(23): error C2086: 'int IMGUI_API': redefinition
+  c:\users\lingn\onedrive\desktop\opengl\opengl_015_imgui\opengl\src\vendor\imgui\imgui_impl_glfw_gl3.h(16): note: see declaration of 'IMGUI_API'
+c:\users\lingn\onedrive\desktop\opengl\opengl_015_imgui\opengl\src\vendor\imgui\imgui_impl_glfw_gl3.h(28): error C2144: syntax error: 'void' should be preceded by ';'
+c:\users\lingn\onedrive\desktop\opengl\opengl_015_imgui\opengl\src\vendor\imgui\imgui_impl_glfw_gl3.h(28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\lingn\onedrive\desktop\opengl\opengl_015_imgui\opengl\src\vendor\imgui\imgui_impl_glfw_gl3.h(28): error C2086: 'int IMGUI_API': redefinition
+  c:\users\lingn\onedrive\desktop\opengl\opengl_015_imgui\opengl\src\vendor\imgui\imgui_impl_glfw_gl3.h(16): note: see declaration of 'IMGUI_API'
+c:\users\lingn\onedrive\desktop\opengl\opengl_015_imgui\opengl\src\vendor\imgui\imgui_impl_glfw_gl3.h(29): error C2144: syntax error: 'void' should be preceded by ';'
+c:\users\lingn\onedrive\desktop\opengl\opengl_015_imgui\opengl\src\vendor\imgui\imgui_impl_glfw_gl3.h(29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\lingn\onedrive\desktop\opengl\opengl_015_imgui\opengl\src\vendor\imgui\imgui_impl_glfw_gl3.h(29): error C2086: 'int IMGUI_API': redefinition
+  c:\users\lingn\onedrive\desktop\opengl\opengl_015_imgui\opengl\src\vendor\imgui\imgui_impl_glfw_gl3.h(16): note: see declaration of 'IMGUI_API'
+c:\users\lingn\onedrive\desktop\opengl\opengl_015_imgui\opengl\src\vendor\imgui\imgui_impl_glfw_gl3.h(30): error C2144: syntax error: 'void' should be preceded by ';'
+c:\users\lingn\onedrive\desktop\opengl\opengl_015_imgui\opengl\src\vendor\imgui\imgui_impl_glfw_gl3.h(30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\lingn\onedrive\desktop\opengl\opengl_015_imgui\opengl\src\vendor\imgui\imgui_impl_glfw_gl3.h(30): error C2086: 'int IMGUI_API': redefinition
+  c:\users\lingn\onedrive\desktop\opengl\opengl_015_imgui\opengl\src\vendor\imgui\imgui_impl_glfw_gl3.h(16): note: see declaration of 'IMGUI_API'
+c:\users\lingn\onedrive\desktop\opengl\opengl_015_imgui\opengl\src\vendor\imgui\imgui_impl_glfw_gl3.h(31): error C2144: syntax error: 'void' should be preceded by ';'
+c:\users\lingn\onedrive\desktop\opengl\opengl_015_imgui\opengl\src\vendor\imgui\imgui_impl_glfw_gl3.h(31): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\lingn\onedrive\desktop\opengl\opengl_015_imgui\opengl\src\vendor\imgui\imgui_impl_glfw_gl3.h(31): error C2086: 'int IMGUI_API': redefinition
+  c:\users\lingn\onedrive\desktop\opengl\opengl_015_imgui\opengl\src\vendor\imgui\imgui_impl_glfw_gl3.h(16): note: see declaration of 'IMGUI_API'
+c:\users\lingn\onedrive\desktop\opengl\opengl_015_imgui\opengl\src\application.cpp(107): error C2653: 'ImGui': is not a class or namespace name
+c:\users\lingn\onedrive\desktop\opengl\opengl_015_imgui\opengl\src\application.cpp(107): error C3861: 'CreateContext': identifier not found
